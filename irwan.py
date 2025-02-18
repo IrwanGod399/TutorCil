@@ -1,1 +1,1 @@
-print("Kontol")
+print("Kondsfsdfdftol")
